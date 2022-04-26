@@ -97,7 +97,8 @@ http 헤더는 http 전송에 필요한 모든 부가정보를 의미한다
 - 메시지 본문( =페이로드)은 엔티티 본문을 전달하는 데 사용된다
 - 엔티티 본문은 요청이나 응답에서 전달할 실제 데이터이다.
 - 엔티티 헤더는 엔티티 본문의 데이터를 해석할 수 있는 정보를 제공한다.
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7cc1ccf8-f80b-4952-89ac-89e6733dfe1f/Untitled.png
+
+![Untitled](https://user-images.githubusercontent.com/56379649/165301358-57b8f474-b03d-4b48-bf6e-052185c9b2a7.png)
 
 ---
 
